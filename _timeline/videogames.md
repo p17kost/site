@@ -1,7 +1,7 @@
 ---
 layout: timeline 
 title: Βιντεοπαιχνίδια 
-image_url: /images/spacewar-players.jpg
+image_url: /images/space-travel.png
 caption: Τα βίντεοπαιχνίδια ακολουθούν μια παράλληλη με γραφική διεπαφή διαδρομή, με διαφορετικά είδη γραφικών, καθώς και άλλες μεταφορές για την αλληλεπίδραση με τον χρήστη. 
 events:
   - tennis-for-two 
@@ -19,4 +19,5 @@ events:
   - pop
   - math-blaster
   - minecraft-end-user
+  - space-travel
 ---
